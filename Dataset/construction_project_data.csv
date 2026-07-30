@@ -1,0 +1,8 @@
+Project_ID,Activity,Category,Planned_Cost,Actual_Cost,Planned_Duration,Actual_Duration,Completion_Percentage,Status,Risk_Level
+P001,Site Preparation,Planning,50000,52000,30,35,100,Completed,Medium
+P002,Foundation Work,Construction,150000,165000,60,70,90,In Progress,High
+P003,Structural Construction,Construction,400000,385000,120,110,75,In Progress,Medium
+P004,Electrical Installation,Installation,80000,0,45,0,0,Not Started,Low
+P005,Plumbing Installation,Installation,70000,0,40,0,0,Not Started,Low
+P006,Interior Finishing,Finishing,200000,0,90,0,0,Not Started,Medium
+P007,Final Inspection,Closing,30000,0,15,0,0,Not Started,Low
