@@ -30,3 +30,24 @@ Based on the analysis, the following insights were identified:
 - Planned vs actual cost analysis helps identify activities that require additional budget monitoring.
 
 - Progress and status tracking provide visibility into project performance and support better project management decisions.
+- ## Tools & Technologies
+
+This project was developed using the following tools and technologies:
+
+* **Power BI** – Data visualization, dashboard development, DAX measures, and interactive reporting.
+* **Microsoft Excel** – Data preparation and project dataset management.
+* **GitHub** – Version control and portfolio project hosting.
+* **Project Management Concepts** – Work Breakdown Structure (WBS), project scheduling, risk management, and project performance tracking.
+
+### Skills Demonstrated
+
+* Data Cleaning and Preparation
+* Data Modeling
+* DAX Measures and KPIs
+* Interactive Dashboard Design
+* Budget and Cost Analysis
+* Project Progress Tracking
+* Data Visualization
+* Business Insight Generation
+* GitHub Portfolio Management
+
