@@ -4,10 +4,9 @@ Construction Project Management & Data Analytics Portfolio | Power BI | Microsof
 
 ## Project Overview
 
-This project analyzes construction project data to monitor budget performance, project progress, and activity status using an interactive Power BI dashboard.
+This project analyzes construction project data to evaluate budget performance, monitor project progress, and track activity status through an interactive Power BI dashboard.
 
-The dashboard helps project managers track project performance, compare planned and actual costs, monitor completion progress, and make data-driven decisions.
-
+The dashboard enables project managers to compare planned and actual costs, measure project completion, identify cost variances, and support data-driven decision-making throughout the project lifecycle.
 ## Business Questions
 
 * Is the project within budget?
